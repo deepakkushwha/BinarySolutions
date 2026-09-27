@@ -93,9 +93,10 @@ export default function HomePage() {
             id="hero-heading"
             className="mx-auto mt-4 max-w-4xl text-4xl font-extrabold tracking-tight text-white sm:text-6xl"
           >
-            We build digital products that{" "}
+           
+            You run the business. {" "}
             <span className="bg-gradient-to-r from-neon-400 to-accent-400 bg-clip-text text-transparent">
-              move business forward
+           We'll build what runs it.
             </span>
           </h1>
           <p className="mx-auto mt-6 max-w-2xl text-lg leading-8 text-slate-400">
