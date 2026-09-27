@@ -94,7 +94,7 @@ export default function HomePage() {
             className="mx-auto mt-4 max-w-4xl text-4xl font-extrabold tracking-tight text-white sm:text-6xl"
           >
            
-            You run the business. {" "}
+            You run the business. 
             <span className="bg-gradient-to-r from-neon-400 to-accent-400 bg-clip-text text-transparent">
            We'll build what runs it.
             </span>
